@@ -78,8 +78,8 @@ The correct use of HTML to reinforce the moeaning of content on a web page.
  4.cd into the newly created repo using cd <repo-name>
  5.use get checkout -b firstname-lastname to create your own branch
  6.make changes
- 7.use git add to get your changes ready to commit.
+ 7.use git add . to get your changes ready to commit.
  8. use git commit -m "your message" to commit and explain what youve added.
  9. use git push -u origin firstname-lastname to push your commits from your local computer to github
- 10.Submit pull request to YOUR forked copy (not the lambda original)
+ 10.Submit pull request to YOUR forked copy (not the lambda original).
     
